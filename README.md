@@ -2,6 +2,12 @@
 
 一款原创海岸公路竞速游戏。驾驶银色跑车，在约 6.78 公里的两圈赛道上挑战蓝色 AI 对手。赛道包含主路、技术支路、跳跃捷径、连续弯道和道路障碍。
 
+## 打开即玩
+
+**[进入雨岸赛车网页版](https://kevinkaslana093.github.io/rain-coast/)**
+
+支持电脑键盘与手机触屏操作，无需下载或安装。
+
 ![雨岸赛车起跑画面](docs/start-line.png)
 
 ## 下载试玩
@@ -50,5 +56,7 @@ Download `RainCoast-Windows-v0.6.0.zip` from [Releases](../../releases/latest), 
 Press `W` or `Up` to start and accelerate. Use `S`/`Down` to brake, `A`/`D` or arrow keys to steer, `Space` to drift, `R` to recover, `N` to restart, `Esc` to pause, `Tab` to change camera, and `F1` to toggle autodrive.
 
 This is currently an offline single-player preview. Online multiplayer is not included yet.
+
+**[Play Rain Coast in your browser](https://kevinkaslana093.github.io/rain-coast/)** — no download required.
 
 © 2026 Rain Coast. All rights reserved.
