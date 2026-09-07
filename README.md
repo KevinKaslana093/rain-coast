@@ -1,12 +1,12 @@
 # 雨岸赛车 / Rain Coast
 
-一款原创海岸公路竞速游戏。驾驶银色跑车，在约 6.78 公里的两圈赛道上挑战蓝色 AI 对手。赛道包含主路、技术支路、跳跃捷径、连续弯道和道路障碍。
+一款原创海岸公路竞速游戏。驾驶银色跑车，在两张可选地图上挑战蓝色 AI 对手。全新的「云脊天路」单圈约 6.10 公里，包含百米风脊、云顶隧道、赤岩峡谷、矿坑回旋和泄洪飞坡；经典「雨岸远征」也完整保留。
 
 ## 打开即玩
 
 **[进入雨岸赛车网页版](https://kevinkaslana093.github.io/rain-coast/)**
 
-支持电脑键盘与手机触屏操作，无需下载或安装。
+支持电脑键盘与手机触屏操作，无需下载或安装。每次比赛会从两首背景音乐中随机选择，播放结束后自动换曲。
 
 ![雨岸赛车起跑画面](docs/start-line.png)
 
@@ -39,7 +39,7 @@ Release 同时提供 macOS 构建就绪工程；它需要在 Mac 上用 UE 5.8 �
 
 ## 当前版本
 
-`v0.6.1` 是离线单人试玩版：两圈竞速，挑战蓝色 AI 对手，并加入新的比赛背景音乐。真人联机暂未加入。
+网页版当前加入两张地图和随机音乐播放。`v0.6.1` Windows 下载包仍是离线单人试玩版：两圈竞速，挑战蓝色 AI 对手。真人联机暂未加入。
 
 若启动时提示缺少 Visual C++ 运行组件，请运行游戏包内的：
 
@@ -51,7 +51,7 @@ Release 同时提供 macOS 构建就绪工程；它需要在 Mac 上用 UE 5.8 �
 
 ## English
 
-Rain Coast is an original coastal road racing game. Drive the silver car through a two-lap, 6.78 km course and race against the blue AI rival. The track includes technical branches, a jump shortcut, linked corners, and road obstacles.
+Rain Coast is an original coastal road racing game with two selectable courses. The new Skyline Road course is about 6.10 km per lap and crosses a high ridge, summit tunnel, red-rock canyon, mine switchbacks, and a spillway jump. The classic Rain Coast course remains available.
 
 Download `RainCoast-Windows-v0.6.1.zip` from [Releases](../../releases/latest), extract the entire ZIP, and launch `RainCoast.exe`. Unreal Engine is not required. Windows x64 only.
 
@@ -61,6 +61,6 @@ This is currently an offline single-player preview. Online multiplayer is not in
 
 The release also includes a macOS build-ready UE5 project. It requires UE 5.8 and Xcode on a Mac and is not a precompiled `.app`.
 
-**[Play Rain Coast in your browser](https://kevinkaslana093.github.io/rain-coast/)** — no download required.
+**[Play Rain Coast in your browser](https://kevinkaslana093.github.io/rain-coast/)** — no download required. Each race randomly selects one of two background tracks and automatically continues with the other when a track ends.
 
 © 2026 Rain Coast. All rights reserved.
