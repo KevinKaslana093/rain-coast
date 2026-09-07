@@ -1,12 +1,12 @@
 # 雨岸赛车 / Rain Coast
 
-一款原创海岸公路竞速游戏。驾驶银色跑车，在两张可选地图上挑战蓝色 AI 对手。全新的「云脊天路」单圈约 6.10 公里，包含百米风脊、云顶隧道、赤岩峡谷、矿坑回旋和泄洪飞坡；经典「雨岸远征」也完整保留。
+一款原创公路竞速游戏。驾驶银色跑车，在三张地图上挑战蓝色 AI 对手。「赤沙远征」是约 8.38 公里的单程地图：盘山公路、雨林泥地、长坡下行、沙漠与宽阔冲线区。雨林泥地会降低抓地力、加速和制动效果。「云脊天路」约 6.10 公里一圈，经典「雨岸远征」也完整保留。
 
 ## 打开即玩
 
 **[进入雨岸赛车网页版](https://kevinkaslana093.github.io/rain-coast/)**
 
-支持电脑键盘与手机触屏操作，无需下载或安装。驾驶设置中可在 60%–120% 之间调整转向灵敏度，并自动保存。每次比赛会从两首背景音乐中随机选择，播放结束后自动换曲。
+支持电脑键盘与手机触屏操作，无需下载或安装。驾驶设置中可在 60%–120% 之间调整转向灵敏度，并自动保存。背景音乐保留 Tension 循环播放。手机可在驾驶设置中启用「倾斜手机」，授权后横握手机并校准；油门、刹车和备用左右转向仍使用屏幕按钮。不支持传感器的浏览器可使用触屏模式。
 
 ![雨岸赛车起跑画面](docs/start-line.png)
 
@@ -39,7 +39,7 @@ Release 同时提供 macOS 构建就绪工程；它需要在 Mac 上用 UE 5.8 �
 
 ## 当前版本
 
-网页版当前加入两张地图和随机音乐播放。`v0.6.1` Windows 下载包仍是离线单人试玩版：两圈竞速，挑战蓝色 AI 对手。真人联机暂未加入。
+网页版 v0.7.0 加入第三张地图与手机倾斜转向，并修复云脊天路的支路高度、遮挡和飞跃落地区。`v0.6.1` Windows 下载包仍是离线单人试玩版：两圈竞速，挑战蓝色 AI 对手。真人联机暂未加入。
 
 若启动时提示缺少 Visual C++ 运行组件，请运行游戏包内的：
 
@@ -51,7 +51,7 @@ Release 同时提供 macOS 构建就绪工程；它需要在 Mac 上用 UE 5.8 �
 
 ## English
 
-Rain Coast is an original coastal road racing game with two selectable courses. The new Skyline Road course is about 6.10 km per lap and crosses a high ridge, summit tunnel, red-rock canyon, mine switchbacks, and a spillway jump. The classic Rain Coast course remains available.
+Rain Coast is an original racing game with three selectable courses. Red Sand Expedition is an 8.38 km point-to-point journey through mountain switchbacks, rainforest mud, a long descent, and desert straights. Mud changes tire grip, acceleration, and braking. Skyline Road and the classic Rain Coast loop remain available.
 
 Download `RainCoast-Windows-v0.6.1.zip` from [Releases](../../releases/latest), extract the entire ZIP, and launch `RainCoast.exe`. Unreal Engine is not required. Windows x64 only.
 
@@ -61,6 +61,6 @@ This is currently an offline single-player preview. Online multiplayer is not in
 
 The release also includes a macOS build-ready UE5 project. It requires UE 5.8 and Xcode on a Mac and is not a precompiled `.app`.
 
-**[Play Rain Coast in your browser](https://kevinkaslana093.github.io/rain-coast/)** — no download required. Each race randomly selects one of two background tracks and automatically continues with the other when a track ends.
+**[Play Rain Coast in your browser](https://kevinkaslana093.github.io/rain-coast/)** — no download required. The browser version supports calibrated phone tilt steering, touch buttons, and adjustable steering sensitivity. The Tension background track loops during play.
 
 © 2026 Rain Coast. All rights reserved.
